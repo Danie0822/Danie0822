@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <em>Este repositorio contiene una descripción de los proyectos desarrollados durante el año 2024, donde coordiné equipos, implementé soluciones robustas y usé una variedad de tecnologías para aplicaciones web y móviles.</em>
+  <em>Este repositorio contiene una descripción de los proyectos desarrollados durante el año 2024, donde coordiné equipos, implementé soluciones robustas y utilicé una variedad de tecnologías para aplicaciones web y móviles.</em>
 </p>
 
 ---
@@ -15,8 +15,8 @@
 
 <h3>1. <a href="#">EssenZial - Tienda de Perfumes</a></h3>
 <ul>
-  <li><strong>Repositorio Web:</strong> <a href="#">EssenZial - GitHub</a></li>
-  <li><strong>Repositorio Aplicación Móvil:</strong> <a href="#">Tienda React Native - GitHub</a></li>
+  <li><strong>Repositorio Web:</strong> <a href="https://github.com/Danie0822/EssenZial">EssenZial - GitHub</a></li>
+  <li><strong>Repositorio Aplicación Móvil:</strong> <a href="https://github.com/Danie0822/tienda_react">Tienda React Native - GitHub</a></li>
 </ul>
 
 <div>
@@ -58,6 +58,22 @@
 
 ---
 
+<h3>3. <a href="https://github.com/Danie0822/ApiExpo2023">SGE - Sistema de Gestión Estudiantil (Expo 2023)</a></h3>
+<ul>
+  <li><strong>Repositorio API:</strong> <a href="https://github.com/Danie0822/ApiExpo2023">API Expo 2023 - GitHub</a></li>
+</ul>
+<p>Este proyecto fue un Sistema de Gestión Estudiantil (SGE) desarrollado como parte de una expo escolar, donde fui el coordinador del equipo. La API fue desarrollada en <strong>Spring Boot</strong> y gestionaba el control de disciplina estudiantil.</p>
+
+---
+
+<h3>4. <a href="https://github.com/EduardoGuerra1/ExpoEscritorio23">SGE - Aplicación de Escritorio (Expo 2023)</a></h3>
+<ul>
+  <li><strong>Repositorio Aplicación Escritorio:</strong> <a href="https://github.com/EduardoGuerra1/ExpoEscritorio23">Expo Escritorio 2023 - GitHub</a></li>
+</ul>
+<p>La aplicación de escritorio fue desarrollada en <strong>Java</strong> y <strong>Swift</strong>, complementando el sistema de gestión estudiantil para uso en plataformas de escritorio.</p>
+
+---
+
 <h2 align="center">🛠️ Experiencia Técnica</h2>
 
 <ul>
@@ -74,11 +90,26 @@
 
 ---
 
+<h2 align="center">🎓 Cursos Realizados</h2>
+
+<ul>
+  <li><strong>Entrenamiento de Bases de Datos Microsoft SQL Server</strong> - Udemy</li>
+  <li><strong>Diseño Web Adaptable</strong> - freeCodeCamp</li>
+  <li><strong>Legacy - Flutter: Tu Guía Completa para iOS y Android</strong> - Udemy</li>
+</ul>
+
+---
+
+<h2 align="center">💬 Sobre Mí</h2>
+
+<p>Soy Daniel, me gusta mucho la programación tanto en el desarrollo de aplicaciones móviles como backend, especialmente con APIs en <strong>Node.js</strong>. Mi lenguaje principal es <strong>Node.js</strong> y <strong>Flutter</strong>. También me gusta mantenerme activo, practicando <strong>fútbol</strong> y yendo al <strong>gimnasio</strong>.</p>
+
+---
+
 <h2 align="center">📫 Contacto</h2>
 
 <p align="center">
-  <a href="mailto:tucorreo@example.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="alessandromorales0822@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <h3 align="center">Gracias por visitar mi portafolio 🙌</h3>
