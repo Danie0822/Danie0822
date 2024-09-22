@@ -1,4 +1,11 @@
 
+
+<h2 align="center">💬 Sobre Mí</h2>
+
+<p>Soy Daniel tengo 19 años de edad, me gusta mucho la programación tanto en el desarrollo de aplicaciones móviles como backend, especialmente con APIs en <strong>Node.js</strong>. Mi lenguaje principal es <strong>Node.js</strong> y <strong>Flutter</strong>. También me gusta mantenerme activo, practicando <strong>fútbol</strong> y yendo al <strong>gimnasio</strong>.</p>
+
+---
+
 <h2 align="center">🎓 Cursos Realizados</h2>
 
 <ul>
@@ -8,14 +15,6 @@
 </ul>
 
 ---
-
-<h2 align="center">💬 Sobre Mí</h2>
-
-<p>Soy Daniel tengo 19 años de edad, me gusta mucho la programación tanto en el desarrollo de aplicaciones móviles como backend, especialmente con APIs en <strong>Node.js</strong>. Mi lenguaje principal es <strong>Node.js</strong> y <strong>Flutter</strong>. También me gusta mantenerme activo, practicando <strong>fútbol</strong> y yendo al <strong>gimnasio</strong>.</p>
-
----
-
-
 <h1 align="center">🚀 Portafolio de Proyectos - 2024 🚀</h1>
 
 <p align="center">
