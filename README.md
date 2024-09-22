@@ -6,13 +6,25 @@
 
 ---
 
-<h2 align="center">🎓 Cursos Realizados</h2>
+## 🎓 Cursos Realizados
 
 <ul>
-  <li><strong>Entrenamiento de Bases de Datos Microsoft SQL Server</strong> - Udemy</li>
-  <li><strong>Diseño Web Adaptable</strong> - freeCodeCamp</li>
-  <li><strong>Legacy - Flutter: Tu Guía Completa para iOS y Android</strong> - Udemy</li>
+  <li><strong>Entrenamiento de Bases de Datos Microsoft SQL Server</strong> - Udemy 
+    <br> 
+    <img src="[https://github.com/Danie0822/NOMBRE_DEL_REPO/raw/main/Certificado%20de%20sql%20server.jpg](https://github.com/Danie0822/Danie0822/blob/main/Certificado%20de%20sql%20server.jpg)" alt="Certificado SQL Server" width="500">
+  </li>
+  
+  <li><strong>Diseño Web Adaptable</strong> - freeCodeCamp 
+    <br> 
+    <img src="[https://github.com/Danie0822/NOMBRE_DEL_REPO/raw/main/Certificado%20de%20dise%C3%B1o%20web.jpg](https://github.com/Danie0822/Danie0822/blob/main/Certificado%20de%20diseño%20web.jpg)" alt="Certificado Diseño Web" width="500">
+  </li>
+
+  <li><strong>Legacy - Flutter: Tu Guía Completa para iOS y Android</strong> - Udemy 
+    <br> 
+    <img src="[https://github.com/Danie0822/NOMBRE_DEL_REPO/raw/main/Certificado%20de%20flutter.jpg](https://github.com/Danie0822/Danie0822/blob/main/Certificado%20de%20flutter.jpg)" alt="Certificado Flutter" width="500">
+  </li>
 </ul>
+
 
 ---
 <h1 align="center">🚀 Portafolio de Proyectos - 2024 🚀</h1>
@@ -110,7 +122,13 @@
 <h2 align="center">📫 Contacto</h2>
 
 <p align="center">
-  <a href="alessandromorales0822@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:alessandromorales0822@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<h3 align="center">Gracias por visitar mi portafolio 🙌</h3>
+
+<p align="center">
+  <a href="mailto:alessandromorales0822@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <h3 align="center">Gracias por visitar mi portafolio 🙌</h3>
