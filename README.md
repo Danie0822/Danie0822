@@ -30,11 +30,6 @@
 <h1 align="center">🚀 Portafolio de Proyectos - 2024 🚀</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Proyectos%20Web-blue?style=flat-square&logo=appveyor">
-  <img src="https://img.shields.io/badge/-Aplicaciones%20Móviles-green?style=flat-square&logo=android">
-</p>
-
-<p align="center">
   <em>Este repositorio contiene una descripción de los proyectos desarrollados durante el año 2024, donde coordiné equipos, implementé soluciones robustas y utilicé una variedad de tecnologías para aplicaciones web y móviles.</em>
 </p>
 
