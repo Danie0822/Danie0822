@@ -120,7 +120,7 @@
     <strong>Desarrollo con C# y ASP.NET:</strong> Creación de una API usando <strong>ASP.NET</strong> y <strong>C#</strong>, así como uan aplicacion de escritorio con el framework <strong>UWP (Universal Windows Platform)</strong>.
 </li>
 <li>
-  <strong>Conocimientos en Hardware y Mantenimiento de Computadoras:</strong> Capacidad para armar computadoras, instalar programas, y realizar limpieza y mantenimiento de equipos de escritorio. Aunque mi verdadera pasión es la programación, no cierro la puerta a cualquier oportunidad de trabajo en esta área; trabajo es trabajo, ¡y siempre estoy dispuesto a aprender y aportar donde sea necesario!
+  <strong>Conocimientos en Hardware y Mantenimiento de Computadoras:</strong> Capacidad para armar computadoras, instalar programas, y realizar limpieza y mantenimiento de equipos de escritorio. Aunque mi verdadera pasión es la programación, no cierro la puerta a cualquier oportunidad de trabajo en esta área; ¡y siempre estoy dispuesto a aprender y aportar donde sea necesario!
 </li>
 </ul>
 
