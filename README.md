@@ -124,6 +124,7 @@
 <p align="center">
   Algunos de mis repositorios destacados están "pineados" más abajo. ¡No dudes en explorarlos!
 </p>
+
 ---
 
 <h2 align="center">📫 Contacto</h2>
