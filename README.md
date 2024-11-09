@@ -113,8 +113,17 @@
   <li>
     <strong>Desarrollo con React Native y Expo:</strong> Creación de una tienda móvil usando <strong>React Native</strong> con <strong>Expo Go</strong> para pruebas y despliegues rápidos.
   </li>
+  <li>
+    <strong>Desarrollo en Java:</strong> Experiencia trabajando con <strong>Java</strong> en proyectos de backend con Spring Boot y Java Swift.
+  </li>
+ <li>
+    <strong>Desarrollo con C# y ASP.NET:</strong> Creación de una API usando <strong>ASP.NET</strong> y <strong>C#</strong>, así como uan aplicacion de escritorio con el framework <strong>UWP (Universal Windows Platform)</strong>.
+  </li>
 </ul>
 
+<p align="center">
+  Algunos de mis repositorios destacados están "pineados" más abajo. ¡No dudes en explorarlos!
+</p>
 ---
 
 <h2 align="center">📫 Contacto</h2>
