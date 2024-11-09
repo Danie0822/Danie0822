@@ -76,9 +76,12 @@
   <h4>Aplicación Móvil:</h4>
   <ul>
     <li>Desarrollada en <strong>Flutter</strong> para una experiencia nativa en <strong>Android</strong> e <strong>iOS</strong>.</li>
+    <li>Disponible para demostraciones bajo solicitud, permitiendo explorar la funcionalidad completa del sistema en dispositivos móviles.</li>
+    <li><strong>Repositorio Aplicación Móvil:</strong> <a href="https://github.com/Danie0822/habbit_mobil_flutter.git">Tienda Flutter - GitHub</a></li>
   </ul>
-  <blockquote><em>Nota: Este proyecto está en un repositorio privado debido a los acuerdos con la empresa.</em></blockquote>
+  <blockquote><em>Nota: La API y la aplicación web están en un repositorio privado debido a los acuerdos con la empresa, mientras que la aplicación móvil está disponible para demostraciones.</em></blockquote>
 </div>
+
 
 ---
 
