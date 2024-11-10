@@ -122,7 +122,7 @@
 <li>
   <strong>Desarrollo de API con PHP y Laravel:</strong> Actualmente estoy trabajando en un proyecto personal para aprender y mejorar mis habilidades en <strong>PHP</strong> y <strong>Laravel</strong>. Estoy desarrollando una API que estoy mejorando continuamente a medida que aprendo más sobre estas tecnologías. Puedes ver el progreso de mi repositorio y cómo voy implementando nuevas funcionalidades en el enlace a continuación:
   <ul>
-    <li><a href="https://github.com/Danie0822/laravelPractica" target="_blank">Repositorio en GitHub</a></li>
+    <li><a href="https://github.com/Danie0822/laravelPractica" target="_blank">Practica de php y laravel</a></li>
   </ul>
 </li>
 
