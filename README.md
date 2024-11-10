@@ -120,6 +120,13 @@
     <strong>Desarrollo con C# y ASP.NET:</strong> Creación de una API usando <strong>ASP.NET</strong> y <strong>C#</strong>, así como uan aplicacion de escritorio con el framework <strong>UWP (Universal Windows Platform)</strong>.
 </li>
 <li>
+  <strong>Desarrollo de API con PHP y Laravel:</strong> Actualmente estoy trabajando en un proyecto personal para aprender y mejorar mis habilidades en <strong>PHP</strong> y <strong>Laravel</strong>. Estoy desarrollando una API que estoy mejorando continuamente a medida que aprendo más sobre estas tecnologías. Puedes ver el progreso de mi repositorio y cómo voy implementando nuevas funcionalidades en el enlace a continuación:
+  <ul>
+    <li><a href="https://github.com/Danie0822/laravelPractica" target="_blank">Repositorio en GitHub</a></li>
+  </ul>
+</li>
+
+<li>
   <strong>Conocimientos en Hardware y Mantenimiento de Computadoras:</strong> Capacidad para armar computadoras, instalar programas, y realizar limpieza y mantenimiento de equipos de escritorio. Aunque mi verdadera pasión es la programación, no cierro la puerta a cualquier oportunidad de trabajo en esta área; ¡y siempre estoy dispuesto a aprender y aportar donde sea necesario!
 </li>
 </ul>
