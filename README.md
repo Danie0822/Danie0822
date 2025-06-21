@@ -195,7 +195,7 @@ Soy un **desarrollador apasionado de 19 años** especializado en desarrollo back
 </ul>
 
 <p align="center">
-  Algunos de mis repositorios destacados están "pineados" más abajo. ¡No dudes en explorarlos!
+  Algunos de mis repositorios destacados están pineados
 </p>
 
 ---
