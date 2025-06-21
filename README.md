@@ -1,103 +1,152 @@
 
+# 👋 ¡Hola! Soy Daniel Alessandro
 
-<h2 align="center">💬 Sobre Mí</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Full+Stack;Backend+%26+Mobile+Developer;Node.js+%26+Flutter+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</div>
 
-<p>Soy Daniel tengo 19 años de edad, me gusta mucho la programación tanto en el desarrollo de aplicaciones móviles como backend, especialmente con APIs en <strong>Node.js</strong>. Mi lenguaje principal es <strong>Node.js</strong> y <strong>Flutter</strong>. También me gusta mantenerme activo, practicando <strong>fútbol</strong> y yendo al <strong>gimnasio</strong>.</p>
+## 💬 Sobre Mí
 
----
+Soy un **desarrollador apasionado de 19 años** especializado en desarrollo backend y aplicaciones móviles. Mi stack principal incluye **Node.js** y **Flutter**, con experiencia en diversas tecnologías modernas. Cuando no estoy programando, me gusta mantenerme activo practicando **fútbol** y entrenando en el **gimnasio**.
 
-## 🎓 Cursos Realizados
+### 🔧 Stack Tecnológico
 
-<ul>
-  <li><strong>Entrenamiento de Bases de Datos Microsoft SQL Server</strong> - Udemy 
-    <br> 
-    <img src="https://github.com/Danie0822/Danie0822/raw/main/Certificado%20de%20sql%20server.jpg" alt="Certificado SQL Server" width="500">
-  </li>
-  
-  <li><strong>Diseño Web Adaptable</strong> - freeCodeCamp 
-    <br> 
-    <img src="https://github.com/Danie0822/Danie0822/raw/main/Certificado%20de%20dise%C3%B1o%20web.jpg" alt="Certificado Diseño Web" width="500">
-  </li>
+<div align="center">
 
-  <li><strong>Legacy - Flutter: Tu Guía Completa para iOS y Android</strong> - Udemy 
-    <br> 
-    <img src="https://github.com/Danie0822/Danie0822/raw/main/Certificado%20de%20flutter.jpg" alt="Certificado Flutter" width="500">
-  </li>
-</ul>
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
----
-<h1 align="center">🚀 Portafolio de Proyectos - 2024 🚀</h1>
-
-<p align="center">
-  <em>Este repositorio contiene una descripción de los proyectos desarrollados durante el año 2024, donde coordiné equipos, implementé soluciones robustas y utilicé una variedad de tecnologías para aplicaciones web y móviles.</em>
-</p>
-
----
-
-<h2 align="center">📌 Proyectos Destacados</h2>
-
-<h3>1. <a href="#">EssenZial - Tienda de Perfumes</a></h3>
-<ul>
-  <li><strong>Repositorio Web:</strong> <a href="https://github.com/Danie0822/EssenZial">EssenZial - GitHub</a></li>
-  <li><strong>Repositorio Aplicación Móvil:</strong> <a href="https://github.com/Danie0822/tienda_react">Tienda React Native - GitHub</a></li>
-</ul>
-
-<div>
-  <h4>Aplicación Web:</h4>
-  <ul>
-    <li>Desarrollada con <strong>JavaScript</strong> y <strong>Bootstrap</strong> para el diseño y la interfaz de usuario.</li>
-    <li>Backend en <strong>Node.js</strong> con <strong>MySQL</strong> para gestionar inventarios, clientes y órdenes.</li>
-  </ul>
-
-  <h4>Aplicación Móvil:</h4>
-  <ul>
-    <li>Desarrollada en <strong>React Native</strong> usando <strong>Expo Go</strong>.</li>
-    <li>La aplicación consume la API desarrollada en <strong>Node.js</strong> para la gestión de usuarios, productos y órdenes.</li>
-  </ul>
 </div>
 
 ---
 
-<h3>2. Proyecto para la Empresa de Inmuebles</h3>
-<p>Este proyecto fue desarrollado en colaboración con compañeros del <strong>Instituto Técnico Ricaldone</strong>, donde fui el coordinador del equipo, liderando la creación de las siguientes soluciones:</p>
+## 🎓 Certificaciones y Formación
 
-<div>
-  <h4>API Backend:</h4>
-  <ul>
-    <li>Desarrollada en <strong>Node.js</strong> utilizando <strong>Express</strong> para gestionar los servicios de la empresa (propiedades, usuarios, etc.).</li>
-  </ul>
+### 📜 Certificados
+<details>
+<summary><strong>Entrenamiento de Bases de Datos Microsoft SQL Server</strong> - Udemy</summary>
+<br>
+<img src="https://github.com/Danie0822/Danie0822/raw/main/Certificados/Certificado%20de%20sql%20server.jpg" alt="Certificado SQL Server" width="500">
+</details>
 
-  <h4>Aplicación Web:</h4>
-  <ul>
-    <li>Implementada con <strong>HTML</strong>, <strong>CSS</strong>, <strong>Bootstrap</strong> y <strong>JavaScript</strong> puro, creando una interfaz interactiva y amigable.</li>
-  </ul>
+<details>
+<summary><strong>Diseño Web Adaptable</strong> - freeCodeCamp</summary>
+<br>
+<img src="https://github.com/Danie0822/Danie0822/raw/main/Certificados/Certificado%20de%20dise%C3%B1o%20web.jpg" alt="Certificado Diseño Web" width="500">
+</details>
 
-  <h4>Aplicación Móvil:</h4>
-  <ul>
-    <li>Desarrollada en <strong>Flutter</strong> para una experiencia nativa en <strong>Android</strong> e <strong>iOS</strong>.</li>
-    <li>Disponible para demostraciones bajo solicitud, permitiendo explorar la funcionalidad completa del sistema en dispositivos móviles.</li>
-    <li><strong>Repositorio Aplicación Móvil:</strong> <a href="https://github.com/Danie0822/habbit_mobil_flutter.git">Tienda Flutter - GitHub</a></li>
-  </ul>
-  <blockquote><em>Nota: La API y la aplicación web están en un repositorio privado debido a los acuerdos con la empresa, mientras que la aplicación móvil está disponible para demostraciones.</em></blockquote>
+<details>
+<summary><strong>Flutter: Tu Guía Completa para iOS y Android</strong> - Udemy</summary>
+<br>
+<img src="https://github.com/Danie0822/Danie0822/raw/main/Certificados/Certificado%20de%20flutter.jpg" alt="Certificado Flutter" width="500">
+</details>
+
+### 🏆 Diplomas DevOps y Arquitectura
+<details>
+<summary><strong>Arquitectura de Alta Concurrencia</strong> - Platzi</summary>
+<br>
+<img src="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-arquitectura-alta-concurrencia.pdf" alt="Diploma Arquitectura Alta Concurrencia" width="500">
+</details>
+
+<details>
+<summary><strong>Docker Avanzado</strong> - Platzi</summary>
+<br>
+<img src="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-docker-avanzado.pdf" alt="Diploma Docker Avanzado" width="500">
+</details>
+
+<details>
+<summary><strong>Docker Fundamentos</strong> - Platzi</summary>
+<br>
+<img src="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-docker-fundamentos.pdf" alt="Diploma Docker Fundamentos" width="500">
+</details>
+
+<details>
+<summary><strong>Introducción a DevOps</strong> - Platzi</summary>
+<br>
+<img src="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-introduccion-devops.pdf" alt="Diploma Introducción DevOps" width="500">
+</details>
+
+
+---
+
+# 🚀 Portafolio de Proyectos
+
+<div align="center">
+  <em>Proyectos desarrollados donde he liderado equipos, implementado soluciones robustas y utilizado diversas tecnologías para aplicaciones web y móviles.</em>
 </div>
 
+---
+
+## 📌 Proyectos Destacados
+
+### 🐾 [API Veterinaria - Práctica Backend](https://github.com/Danie0822/veterinaria_api.git)
+**Tecnologías:** Node.js • Express.js • Sequelize • PostgreSQL • Docker • Swagger • JWT
+
+> **Objetivo:** Proyecto de práctica para reforzar conocimientos y aplicar mejores prácticas en el desarrollo de APIs RESTful.
+
+**Características principales:**
+- ✅ Arquitectura limpia y escalable para APIs RESTful
+- ✅ Contenedorización completa con Docker y Docker Compose
+- ✅ ORM avanzado con Sequelize para PostgreSQL
+- ✅ Documentación técnica completa con Swagger
+- ✅ Sistema de autenticación robusto basado en JWT
+- ✅ Mejores prácticas del ecosistema JavaScript
 
 ---
 
-<h3>3. <a href="https://github.com/Danie0822/ApiExpo2023">SGE - Sistema de Gestión Estudiantil (Expo 2023)</a></h3>
-<ul>
-  <li><strong>Repositorio API:</strong> <a href="https://github.com/Danie0822/ApiExpo2023">API Expo 2023 - GitHub</a></li>
-</ul>
-<p>Este proyecto fue un Sistema de Gestión Estudiantil (SGE) desarrollado como parte de una expo escolar, donde fui el coordinador del equipo. La API fue desarrollada en <strong>Spring Boot</strong> y gestionaba el control de disciplina estudiantil.</p>
+### 🛍️ [EssenZial - E-commerce de Perfumes](https://github.com/Danie0822/EssenZial)
+**Repositorios:**
+- 🌐 **Web:** [EssenZial - GitHub](https://github.com/Danie0822/EssenZial)
+- 📱 **Mobile:** [React Native App](https://github.com/Danie0822/tienda_react)
+
+**Stack Tecnológico:**
+- **Frontend Web:** JavaScript, Bootstrap
+- **Backend:** Node.js, MySQL
+- **Mobile:** React Native, Expo Go
+
+**Características:**
+- Sistema completo de e-commerce
+- Gestión de inventarios, clientes y órdenes
+- API RESTful robusta
+- Aplicación móvil multiplataforma
 
 ---
 
-<h3>4. <a href="https://github.com/EduardoGuerra1/ExpoEscritorio23">SGE - Aplicación de Escritorio (Expo 2023)</a></h3>
-<ul>
-  <li><strong>Repositorio Aplicación Escritorio:</strong> <a href="https://github.com/EduardoGuerra1/ExpoEscritorio23">Expo Escritorio 2023 - GitHub</a></li>
-</ul>
-<p>La aplicación de escritorio fue desarrollada en <strong>Java</strong> y <strong>Swift</strong>, complementando el sistema de gestión estudiantil para uso en plataformas de escritorio.</p>
+### 🏢 Sistema de Gestión Inmobiliaria
+**Rol:** Coordinador de Equipo - Instituto Técnico Ricaldone
+
+**Arquitectura Multi-plataforma:**
+- **🔧 API Backend:** Node.js + Express
+- **🌐 Web App:** HTML5, CSS3, Bootstrap, JavaScript
+- **📱 Mobile App:** [Flutter - GitHub](https://github.com/Danie0822/habbit_mobil_flutter.git)
+
+**Gestión completa de:**
+- Propiedades y usuarios
+- Interfaz web interactiva y responsive
+- Aplicación móvil nativa para Android e iOS
+- Disponible para demostraciones bajo solicitud
+
+> 📝 *Nota: API y aplicación web en repositorio privado por acuerdos empresariales*
+
+---
+
+### 🎓 [SGE - Sistema de Gestión Estudiantil (Expo 2023)](https://github.com/Danie0822/ApiExpo2023)
+**Tecnologías:** Spring Boot • Java • Swift
+
+**Componentes del proyecto:**
+- **🔧 API:** [Spring Boot - GitHub](https://github.com/Danie0822/ApiExpo2023)
+- **💻 Desktop App:** [Java/Swift - GitHub](https://github.com/EduardoGuerra1/ExpoEscritorio23)
+
+**Características:**
+- Sistema completo de gestión estudiantil
+- Control avanzado de disciplina estudiantil
+- Arquitectura robusta con Spring Boot
+- Aplicación de escritorio multiplataforma
 
 ---
 
@@ -117,7 +166,7 @@
     <strong>Desarrollo en Java:</strong> Experiencia trabajando con <strong>Java</strong> en proyectos de backend con Spring Boot y Java Swift.
   </li>
  <li>
-    <strong>Desarrollo con C# y ASP.NET:</strong> Creación de una API usando <strong>ASP.NET</strong> y <strong>C#</strong>, así como uan aplicacion de escritorio con el framework <strong>UWP (Universal Windows Platform)</strong>.
+    <strong>Desarrollo con C# y ASP.NET:</strong> Creación de una API usando <strong>ASP.NET</strong> y <strong>C#</strong>, así como una aplicacion de escritorio con el framework <strong>UWP (Universal Windows Platform)</strong>.
 </li>
 <li>
   <strong>Desarrollo de API con PHP y Laravel:</strong> Actualmente estoy trabajando en un proyecto personal para aprender y mejorar mis habilidades en <strong>PHP</strong> y <strong>Laravel</strong>. Estoy desarrollando una API que estoy mejorando continuamente a medida que aprendo más sobre estas tecnologías. Puedes ver el progreso de mi repositorio y cómo voy implementando nuevas funcionalidades en el enlace a continuación:
@@ -137,11 +186,32 @@
 
 ---
 
-<h2 align="center">📫 Contacto</h2>
+## 📈 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Danie0822&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</div>
 
-<p align="center">
-  <a href="mailto:alessandromorales0822@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danie0822&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
 
-<h3 align="center">Gracias por visitar mi portafolio 🙌</h3>
+---
+
+## 📫 Contacto
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/-alessandromorales0822@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandromorales0822@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Danie0822-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danie0822)
+
+</div>
+
+---
+
+<div align="center">
+  <h3>🙌 ¡Gracias por visitar mi portafolio!</h3>
+  <p><em>Siempre abierto a nuevas oportunidades y colaboraciones</em></p>
+  
+  <img src="https://komarev.com/ghpvc/?username=Danie0822&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
