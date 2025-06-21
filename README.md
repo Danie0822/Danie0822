@@ -1,4 +1,3 @@
-
 # 👋 ¡Hola! Soy Daniel Alessandro
 
 <div align="center">
@@ -150,6 +149,29 @@ Soy un **desarrollador apasionado de 19 años** especializado en desarrollo back
 
 ---
 
+## 💼 Experiencia Laboral
+
+### 👨‍💻 Desarrollador de Software
+**Instituto Técnico Ricaldone** | *Noviembre 2024 - Actual*
+
+- **Backend Development:** Desarrollo backend con Sequelize y PHP (Laravel) y frontend con Flutter y Vue.
+- **Base de Datos:** Gestión y mantenimiento de bases de datos, incluyendo control de registros y administración de usuarios.
+- **Soporte Técnico:** Soporte en gestión de TI, resolución de incidencias en hardware y software.
+- **Administración:** Administración y gestión de credenciales de usuario.
+- **Referencias:** Oscar Ramírez | Desarrollador de Software | 7802-2630
+
+### 🚀 Desarrollador Full Stack Freelance y Coordinador de Proyecto
+**Proyecto Independiente** | *Junio 2024 - Septiembre 2024*
+
+- **Liderazgo:** Lideré el desarrollo de un sistema de gestión de inmuebles, estableciendo la arquitectura y lineamientos del proyecto.
+- **Backend:** Desarrollamos el backend con Node.js y Express en ORM.
+- **Frontend:** Implementamos el frontend con HTML, CSS, JavaScript (Vanilla) y Bootstrap.
+- **Mobile:** Desarrollamos una aplicación en Flutter como parte del sistema.
+- **Deployment:** Realicé el despliegue del proyecto.
+- **Referencias:** Emiliano Valdez | Compañero de Proyecto | 7405-5913
+
+---
+
 <h2 align="center">🛠️ Experiencia Técnica</h2>
 
 <ul>
@@ -169,9 +191,9 @@ Soy un **desarrollador apasionado de 19 años** especializado en desarrollo back
     <strong>Desarrollo con C# y ASP.NET:</strong> Creación de una API usando <strong>ASP.NET</strong> y <strong>C#</strong>, así como una aplicacion de escritorio con el framework <strong>UWP (Universal Windows Platform)</strong>.
 </li>
 <li>
-  <strong>Desarrollo de API con PHP y Laravel:</strong> Actualmente estoy trabajando en un proyecto personal para aprender y mejorar mis habilidades en <strong>PHP</strong> y <strong>Laravel</strong>. Estoy desarrollando una API que estoy mejorando continuamente a medida que aprendo más sobre estas tecnologías. Puedes ver el progreso de mi repositorio y cómo voy implementando nuevas funcionalidades en el enlace a continuación:
+  <strong>Desarrollo de API con PHP y Laravel:</strong> Completé un proyecto personal para aprender y mejorar mis habilidades en <strong>PHP</strong> y <strong>Laravel</strong>. Desarrollé una API completa aplicando las mejores prácticas de este framework, consolidando mis conocimientos en estas tecnologías del backend. El proyecto final demuestra mi capacidad para trabajar con el ecosistema de Laravel:
   <ul>
-    <li><a href="https://github.com/Danie0822/laravelPractica" target="_blank">Practica de php y laravel</a></li>
+    <li><a href="https://github.com/Danie0822/laravelPractica" target="_blank">Practica de PHP y Laravel - Proyecto Completado</a></li>
   </ul>
 </li>
 
