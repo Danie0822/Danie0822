@@ -120,8 +120,6 @@ Soy un **desarrollador apasionado de 19 años** especializado en desarrollo back
 **Rol:** Coordinador de Equipo - Instituto Técnico Ricaldone
 
 **Arquitectura Multi-plataforma:**
-- **🔧 API Backend:** Node.js + Express
-- **🌐 Web App:** HTML5, CSS3, Bootstrap, JavaScript
 - **📱 Mobile App:** [Flutter - GitHub](https://github.com/Danie0822/habbit_mobil_flutter.git)
 
 **Gestión completa de:**
@@ -130,7 +128,6 @@ Soy un **desarrollador apasionado de 19 años** especializado en desarrollo back
 - Aplicación móvil nativa para Android e iOS
 - Disponible para demostraciones bajo solicitud
 
-> 📝 *Nota: API y aplicación web en repositorio privado por acuerdos empresariales*
 
 ---
 
