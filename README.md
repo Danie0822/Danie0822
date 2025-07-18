@@ -49,25 +49,49 @@ Soy un **desarrollador apasionado de 19 años** especializado en desarrollo back
 <details>
 <summary><strong>Arquitectura de Alta Concurrencia</strong> - Platzi</summary>
 <br>
-<img src="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-arquitectura-alta-concurrencia.pdf" alt="Diploma Arquitectura Alta Concurrencia" width="500">
+📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-arquitectura-alta-concurrencia.pdf" target="_blank">Ver Diploma PDF</a>
+</details>
+
+<details>
+<summary><strong>AWS Fundamentos</strong> - Platzi</summary>
+<br>
+📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-aws-fundamentos.pdf" target="_blank">Ver Diploma PDF</a>
 </details>
 
 <details>
 <summary><strong>Docker Avanzado</strong> - Platzi</summary>
 <br>
-<img src="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-docker-avanzado.pdf" alt="Diploma Docker Avanzado" width="500">
+📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-docker-avanzado.pdf" target="_blank">Ver Diploma PDF</a>
 </details>
 
 <details>
 <summary><strong>Docker Fundamentos</strong> - Platzi</summary>
 <br>
-<img src="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-docker-fundamentos.pdf" alt="Diploma Docker Fundamentos" width="500">
+📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-docker-fundamentos.pdf" target="_blank">Ver Diploma PDF</a>
+</details>
+
+<details>
+<summary><strong>Docker Swarm</strong> - Platzi</summary>
+<br>
+📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-docker-swarm.pdf" target="_blank">Ver Diploma PDF</a>
+</details>
+
+<details>
+<summary><strong>Introducción a la Nube</strong> - Platzi</summary>
+<br>
+📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-intro-nube.pdf" target="_blank">Ver Diploma PDF</a>
 </details>
 
 <details>
 <summary><strong>Introducción a DevOps</strong> - Platzi</summary>
 <br>
-<img src="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-introduccion-devops.pdf" alt="Diploma Introducción DevOps" width="500">
+📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-introduccion-devops.pdf" target="_blank">Ver Diploma PDF</a>
+</details>
+
+<details>
+<summary><strong>Redes</strong> - Platzi</summary>
+<br>
+📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-redes.pdf" target="_blank">Ver Diploma PDF</a>
 </details>
 
 
