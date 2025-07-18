@@ -53,15 +53,9 @@ Soy un **desarrollador apasionado de 19 años** especializado en desarrollo back
 </details>
 
 <details>
-<summary><strong>AWS Fundamentos</strong> - Platzi</summary>
+<summary><strong>Introducción a DevOps</strong> - Platzi</summary>
 <br>
-📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-aws-fundamentos.pdf" target="_blank">Ver Diploma PDF</a>
-</details>
-
-<details>
-<summary><strong>Docker Avanzado</strong> - Platzi</summary>
-<br>
-📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-docker-avanzado.pdf" target="_blank">Ver Diploma PDF</a>
+📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-introduccion-devops.pdf" target="_blank">Ver Diploma PDF</a>
 </details>
 
 <details>
@@ -71,21 +65,27 @@ Soy un **desarrollador apasionado de 19 años** especializado en desarrollo back
 </details>
 
 <details>
+<summary><strong>Docker Avanzado</strong> - Platzi</summary>
+<br>
+📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-docker-avanzado.pdf" target="_blank">Ver Diploma PDF</a>
+</details>
+
+<details>
 <summary><strong>Docker Swarm</strong> - Platzi</summary>
 <br>
 📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-docker-swarm.pdf" target="_blank">Ver Diploma PDF</a>
 </details>
 
 <details>
-<summary><strong>Introducción a la Nube</strong> - Platzi</summary>
+<summary><strong>AWS Fundamentos</strong> - Platzi</summary>
 <br>
-📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-intro-nube.pdf" target="_blank">Ver Diploma PDF</a>
+📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-aws-fundamentos.pdf" target="_blank">Ver Diploma PDF</a>
 </details>
 
 <details>
-<summary><strong>Introducción a DevOps</strong> - Platzi</summary>
+<summary><strong>Introducción a la Nube</strong> - Platzi</summary>
 <br>
-📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-introduccion-devops.pdf" target="_blank">Ver Diploma PDF</a>
+📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-intro-nube.pdf" target="_blank">Ver Diploma PDF</a>
 </details>
 
 <details>
