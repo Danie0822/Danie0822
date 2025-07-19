@@ -122,6 +122,20 @@ Soy un **desarrollador apasionado de 19 años** especializado en desarrollo back
 
 ---
 
+### ☕ [Práctica Spring Boot - API REST](https://github.com/Danie0822/practica-spring-boot)
+**Tecnologías:** Spring Boot • Java • JPA • REST API
+
+> **Objetivo:** Repositorio para recordar y practicar conocimientos de Spring Boot. El proyecto implementa una API REST para la gestión de usuarios con operaciones CRUD completas.
+
+**Características principales:**
+- ✅ API REST completa con Spring Boot
+- ✅ Operaciones CRUD para gestión de usuarios
+- ✅ Implementación de mejores prácticas de Spring Framework
+- ✅ Arquitectura limpia y estructurada
+- ✅ Ideal para reforzar conocimientos en el ecosistema Java/Spring
+
+---
+
 ### 🛍️ [EssenZial - E-commerce de Perfumes](https://github.com/Danie0822/EssenZial)
 **Repositorios:**
 - 🌐 **Web:** [EssenZial - GitHub](https://github.com/Danie0822/EssenZial)
