@@ -252,6 +252,7 @@ Soy un **desarrollador apasionado de 19 años** especializado en desarrollo back
 <div align="center">
   
 [![Email](https://img.shields.io/badge/-alessandromorales0822@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandromorales0822@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Daniel%20Morales-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-morales-694748263/)
 [![GitHub](https://img.shields.io/badge/-Danie0822-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danie0822)
 
 </div>
