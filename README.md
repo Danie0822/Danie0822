@@ -169,18 +169,17 @@ Soy un **desarrollador apasionado de 19 años** especializado en desarrollo back
 
 ---
 
-### 🎓 [SGE - Sistema de Gestión Estudiantil (Expo 2023)](https://github.com/Danie0822/ApiExpo2023)
-**Tecnologías:** Spring Boot • Java • Swift
+### 🚚 [Landing Page de Empresa de Logística](https://github.com/Danie0822/landing-page)
+**Tecnologías:** React • Vite • Tailwind CSS
 
-**Componentes del proyecto:**
-- **🔧 API:** [Spring Boot - GitHub](https://github.com/Danie0822/ApiExpo2023)
-- **💻 Desktop App:** [Java/Swift - GitHub](https://github.com/EduardoGuerra1/ExpoEscritorio23)
+> **Descripción:** Landing page moderna y responsiva para empresa de logística. Presenta servicios, misión, visión y contacto, con estructura modular y componentes reutilizables.
 
-**Características:**
-- Sistema completo de gestión estudiantil
-- Control avanzado de disciplina estudiantil
-- Arquitectura robusta con Spring Boot
-- Aplicación de escritorio multiplataforma
+**Características principales:**
+- Estructura en React con Vite
+- Estilos con Tailwind CSS
+- Componentes reutilizables y diseño responsive
+- Secciones: Hero, Servicios, Misión/Visión, Países, Sobre nosotros, Contacto y Footer
+
 
 ---
 
