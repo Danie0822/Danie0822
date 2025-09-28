@@ -6,7 +6,7 @@
 
 ## 💬 Sobre Mí
 
-Soy un **desarrollador apasionado de 19 años** especializado en desarrollo backend y aplicaciones móviles. Mi stack principal incluye **Node.js** y **Flutter**, con experiencia en diversas tecnologías modernas. Cuando no estoy programando, me gusta mantenerme activo practicando **fútbol** y entrenando en el **gimnasio**.
+Soy un **desarrollador apasionado de 20 años** especializado en desarrollo backend y aplicaciones móviles. Mi stack principal incluye **Node.js** y **Flutter**, con experiencia en diversas tecnologías modernas. Cuando no estoy programando, me gusta mantenerme activo practicando **fútbol** y entrenando en el **gimnasio**.
 
 ### 🔧 Stack Tecnológico
 
