@@ -46,6 +46,18 @@ Soy un **desarrollador apasionado de 19 años** especializado en desarrollo back
 <img src="https://github.com/Danie0822/Danie0822/raw/main/Certificados/Certificado%20de%20flutter.jpg" alt="Certificado Flutter" width="500">
 </details>
 
+<details>
+<summary><strong>English for IT 2</strong> - Certificación</summary>
+<br>
+📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/EnglishforIT2Update20250928-31-x6iorw.pdf" target="_blank">Ver Certificado PDF</a>
+</details>
+
+<details>
+<summary><strong>Cyber Threat Management</strong> - Certificación</summary>
+<br>
+📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/CyberThreatManagementUpdate20250928-29-lzfys2.pdf" target="_blank">Ver Certificado PDF</a>
+</details>
+
 ### 🏆 Diplomas DevOps y Arquitectura
 <details>
 <summary><strong>Arquitectura de Alta Concurrencia</strong> - Platzi</summary>
