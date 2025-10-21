@@ -195,6 +195,8 @@ Repositorio para reforzar conocimientos en **Spring Boot**. Implementa una API R
 - API RESTful robusta  
 - Aplicación móvil multiplataforma  
 
+---
+
 ## 💼 Experiencia Laboral
 
 ### Desarrollador de Software
