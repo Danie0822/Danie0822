@@ -113,7 +113,7 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 # 🚀 Portafolio de Proyectos
 
 <div align="center">
-  <em>Proyectos desarrollados donde he liderado equipos, implementado soluciones robustas y utilizado diversas tecnologías para aplicaciones web y móviles.</em>
+  <em>En constante práctica y aprendizaje, reforzando conocimientos en tecnologías backend y frontend mediante el desarrollo e implementación de soluciones para aplicaciones web y móviles.</em>
 </div>
 
 ---
@@ -165,20 +165,6 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 - API RESTful robusta
 - Aplicación móvil multiplataforma
 
----
-
-### 🏢 Sistema de Gestión Inmobiliaria
-**Rol:** Coordinador de Equipo - Instituto Técnico Ricaldone
-
-**Arquitectura Multi-plataforma:**
-- **📱 Mobile App:** [Flutter - GitHub](https://github.com/Danie0822/habbit_mobil_flutter.git)
-
-**Gestión completa de:**
-- Propiedades y usuarios
-- Interfaz web interactiva y responsive
-- Aplicación móvil nativa para Android e iOS
-- Disponible para demostraciones bajo solicitud
-
 
 ---
 
@@ -207,10 +193,10 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 - **Administración:** Administración y gestión de credenciales de usuario.
 
 ### 🚀 Desarrollador Full Stack Freelance y Coordinador de Proyecto
-**Proyecto Independiente** | *Junio 2024 - Septiembre 2024*
+**Proyecto Independiente** | *Mayo 2024 - Diciembre 2024*
 
 - **Liderazgo:** Lideré el desarrollo de un sistema de gestión de inmuebles, estableciendo la arquitectura y lineamientos del proyecto.
-- **Backend:** Desarrollamos el backend con Node.js y Express en ORM.
+- **Backend:** Desarrollamos el backend con Node.js y Express.
 - **Frontend:** Implementamos el frontend con HTML, CSS, JavaScript (Vanilla) y Bootstrap.
 - **Mobile:** Desarrollamos una aplicación en Flutter como parte del sistema.
 - **Deployment:** Realicé el despliegue del proyecto.
@@ -221,25 +207,32 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 
 <ul>
   <li>
-    <strong>Creación de Aplicaciones con Flutter:</strong> Desarrollo de aplicaciones móviles con <strong>Flutter</strong>, proporcionando interfaces nativas y multiplataforma.
+    <strong>Desarrollo Backend:</strong> Creación de APIs RESTful y servicios robustos utilizando diversas tecnologías backend como:
+    <ul>
+      <li><strong>Node.js</strong> con <strong>Express.js</strong> para servidores escalables y eficientes.</li>
+      <li><strong>Java</strong> con <strong>Spring Boot</strong> para aplicaciones empresariales y microservicios.</li>
+      <li><strong>ASP.NET</strong> y <strong>C#</strong> para soluciones seguras y de alto rendimiento.</li>
+      <li><strong>PHP</strong> para el desarrollo de sistemas web dinámicos y mantenimiento de proyectos existentes.</li>
+    </ul>
   </li>
   <li>
-    <strong>Integración de APIs:</strong> Implementación de aplicaciones móviles que consumen APIs desarrolladas en <strong>Spring Boot</strong> y <strong>Node.js</strong>.
+    <strong>Desarrollo de Aplicaciones con Flutter:</strong> Creación de aplicaciones móviles multiplataforma con <strong>Flutter</strong>, ofreciendo interfaces nativas, fluidas y optimizadas para Android e iOS.
   </li>
   <li>
-    <strong>Desarrollo con React Native y Expo:</strong> Creación de una tienda móvil usando <strong>React Native</strong> con <strong>Expo Go</strong> para pruebas y despliegues rápidos.
+    <strong>Desarrollo Frontend con React:</strong> Diseño y construcción de interfaces de usuario interactivas, modernas y responsivas utilizando <strong>React</strong> y su ecosistema.
   </li>
-  <li>
-    <strong>Desarrollo en Java:</strong> Experiencia trabajando con <strong>Java</strong> en proyectos de backend con Spring Boot y Java Swift.
-  </li>
- <li>
-    <strong>Desarrollo con C# y ASP.NET:</strong> Creación de una API usando <strong>ASP.NET</strong> y <strong>C#</strong>, así como una aplicacion de escritorio con el framework <strong>UWP (Universal Windows Platform)</strong>.
-</li>
 
-<li>
-  <strong>Conocimientos en Hardware y Mantenimiento de Computadoras:</strong> Capacidad para armar computadoras, instalar programas, y realizar limpieza y mantenimiento de equipos de escritorio. Aunque mi verdadera pasión es la programación, no cierro la puerta a cualquier oportunidad de trabajo en esta área; ¡y siempre estoy dispuesto a aprender y aportar donde sea necesario!
-</li>
+  <li>
+    <strong>Desarrollo con React Native y Expo:</strong> Implementación de aplicaciones móviles con <strong>React Native</strong> y <strong>Expo Go</strong>, facilitando pruebas, despliegues y desarrollo ágil.
+  </li>
+  <li>
+    <strong>Desarrollo de Aplicaciones de Escritorio:</strong> Creación de aplicaciones con <strong>UWP (Universal Windows Platform)</strong> utilizando <strong>C#</strong> para entornos Windows.
+  </li>
+  <li>
+    <strong>Conocimientos en Hardware y Mantenimiento:</strong> Ensamblaje, instalación de software, mantenimiento preventivo y correctivo de equipos de escritorio. Aunque mi verdadera pasión es la programación, siempre estoy dispuesto a aprender y aportar en cualquier área tecnológica.
+  </li>
 </ul>
+
 
 <p align="center">
   Algunos de mis repositorios destacados están pineados
