@@ -120,81 +120,80 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 
 ## 📌 Proyectos Destacados
 
-
-### [Sistema-de-Cotizaciones-Logisticas](Sistema-de-Cotizaciones-Logisticas/)
-**Práctica:** Repositorio para reforzar conocimientos en React (frontend) y Sequelize/Node (backend).
+### [Sistema de Cotizaciones Logísticas](Sistema-de-Cotizaciones-Logisticas/)
+**Práctica:** Repositorio para reforzar conocimientos en **React (frontend)** y **Sequelize/Node (backend)**.
 
 Monorepo que contiene una API backend y una aplicación frontend para gestionar cotizaciones de servicios logísticos.
 
 **Resumen:**
-
 - **Propósito:** Generar, listar y administrar cotizaciones, clientes, tarifas y reglas de cargo.
-- **Frontend:** React + Vite (SPA) + Bootstrap + Axios
-- **Backend:** Node.js + Express + Sequelize + PostgreSQL + Swagger + JWT
+- **Frontend:** React + Vite (SPA) + Bootstrap + Axios  
+- **Backend:** Node.js + Express + Sequelize + PostgreSQL + Swagger + JWT  
 - **Despliegue:** Contenedorizado con Docker y Docker Compose
 
 **Características principales:**
-- ✅ Monorepo con frontend y backend separados
-- ✅ CRUD para cotizaciones, clientes y tarifas
-- ✅ Documentación de la API con Swagger
-
+- Monorepo con frontend y backend separados  
+- CRUD para cotizaciones, clientes y tarifas  
+- Documentación de la API con Swagger  
 
 ---
 
-### [Landing Page ](https://github.com/Danie0822/landing-page)
+### [Landing Page](https://github.com/Danie0822/landing-page)
 **Tecnologías:** React • Vite • Tailwind CSS
 
-> **Descripción:** Landing page moderna y responsiva para empresa de logística. Presenta servicios, misión, visión y contacto, con estructura modular y componentes reutilizables.
+**Descripción:**  
+Landing page moderna y responsiva que presenta servicios, misión, visión y contacto. Estructurada modularmente y con componentes reutilizables.
 
 **Características principales:**
-- Estructura en React con Vite
-- Estilos con Tailwind CSS
-- Componentes reutilizables y diseño responsive
-- Secciones: Hero, Servicios, Misión/Visión, Países, Sobre nosotros, Contacto y Footer
+- Estructura en React con Vite  
+- Estilos con Tailwind CSS  
+- Componentes reutilizables y diseño responsive  
+- Secciones: Hero, Servicios, Misión/Visión, Países, Sobre Nosotros, Contacto y Footer  
 
 ---
 
 ### [API Veterinaria - Práctica Backend](https://github.com/Danie0822/veterinaria_api.git)
 **Tecnologías:** Node.js • Express.js • Sequelize • PostgreSQL • Docker • Swagger • JWT
 
-> **Objetivo:** Proyecto de práctica para reforzar conocimientos y aplicar mejores prácticas en el desarrollo de APIs RESTful.
+**Objetivo:**  
+Proyecto de práctica para reforzar conocimientos y aplicar mejores prácticas en el desarrollo de APIs RESTful.
 
 **Características principales:**
-- ✅ Arquitectura limpia y escalable para APIs RESTful
-- ✅ Contenedorización completa con Docker y Docker Compose
-- ✅ ORM con Sequelize para PostgreSQL
-- ✅ Documentación técnica completa con Swagger
-- ✅ Sistema de autenticación basado en JWT
+- Arquitectura limpia y escalable para APIs RESTful  
+- Contenedorización completa con Docker y Docker Compose  
+- ORM con Sequelize para PostgreSQL  
+- Documentación técnica completa con Swagger  
+- Sistema de autenticación basado en JWT  
 
 ---
 
 ### [Práctica Spring Boot - API REST](https://github.com/Danie0822/practica-spring-boot)
 **Tecnologías:** Spring Boot • Java • JPA • REST API
 
-> **Objetivo:** Repositorio para recordar y practicar conocimientos de Spring Boot. El proyecto implementa una API REST para la gestión de usuarios con operaciones CRUD completas.
+**Objetivo:**  
+Repositorio para reforzar conocimientos en **Spring Boot**. Implementa una API REST para la gestión de usuarios con operaciones CRUD completas.
 
 **Características principales:**
-- ✅ API REST completa con Spring Boot
-- ✅ Operaciones CRUD para gestión de usuarios
+- API REST completa con Spring Boot  
+- Operaciones CRUD para la gestión de usuarios  
 
 ---
 
 ### [EssenZial - E-commerce de Perfumes](https://github.com/Danie0822/EssenZial)
 **Repositorios:**
-- 🌐 **Web:** [EssenZial - GitHub](https://github.com/Danie0822/EssenZial)
-- 📱 **Mobile:** [React Native App](https://github.com/Danie0822/tienda_react)
+- Web: [EssenZial - GitHub](https://github.com/Danie0822/EssenZial)  
+- Mobile: [React Native App](https://github.com/Danie0822/tienda_react)
 
 **Stack Tecnológico:**
-- **Frontend Web:** JavaScript, Bootstrap
-- **Backend:** Node.js, MySQL
-- **Mobile:** React Native, Expo Go
+- **Frontend Web:** JavaScript, Bootstrap  
+- **Backend:** Node.js, MySQL  
+- **Mobile:** React Native, Expo Go  
 
 **Características:**
-- Sistema completo de e-commerce
-- Gestión de inventarios, clientes y órdenes
-- API RESTful robusta
-- Aplicación móvil multiplataforma
-
+- Sistema completo de e-commerce  
+- Gestión de inventarios, clientes y órdenes  
+- API RESTful robusta  
+- Aplicación móvil multiplataforma  
 
 ## 💼 Experiencia Laboral
 
