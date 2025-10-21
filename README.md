@@ -27,7 +27,7 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 
 ## 🎓 Certificaciones y Formación
 
-### 📜 Certificados
+### Certificados
 <details>
 <summary><strong>Entrenamiento de Bases de Datos Microsoft SQL Server</strong> - Udemy</summary>
 <br>
@@ -58,7 +58,7 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/CyberThreatManagementUpdate20250928-29-lzfys2.pdf" target="_blank">Ver Certificado PDF</a>
 </details>
 
-### 🏆 Diplomas DevOps y Arquitectura
+###  Diplomas DevOps y Arquitectura
 <details>
 <summary><strong>Arquitectura de Alta Concurrencia</strong> - Platzi</summary>
 <br>
@@ -110,7 +110,7 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 
 ---
 
-# 🚀 Portafolio de Proyectos
+# Portafolio de Proyectos
 
 <div align="center">
   <em>En constante práctica y aprendizaje, reforzando conocimientos en tecnologías backend y frontend mediante el desarrollo e implementación de soluciones para aplicaciones web y móviles.</em>
@@ -120,7 +120,41 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 
 ## 📌 Proyectos Destacados
 
-### 🐾 [API Veterinaria - Práctica Backend](https://github.com/Danie0822/veterinaria_api.git)
+
+### [Sistema-de-Cotizaciones-Logisticas](Sistema-de-Cotizaciones-Logisticas/)
+**Práctica:** Repositorio para reforzar conocimientos en React (frontend) y Sequelize/Node (backend).
+
+Monorepo que contiene una API backend y una aplicación frontend para gestionar cotizaciones de servicios logísticos.
+
+**Resumen:**
+
+- **Propósito:** Generar, listar y administrar cotizaciones, clientes, tarifas y reglas de cargo.
+- **Frontend:** React + Vite (SPA) + Bootstrap + Axios
+- **Backend:** Node.js + Express + Sequelize + PostgreSQL + Swagger + JWT
+- **Despliegue:** Contenedorizado con Docker y Docker Compose
+
+**Características principales:**
+- ✅ Monorepo con frontend y backend separados
+- ✅ CRUD para cotizaciones, clientes y tarifas
+- ✅ Documentación de la API con Swagger
+
+
+---
+
+### [Landing Page ](https://github.com/Danie0822/landing-page)
+**Tecnologías:** React • Vite • Tailwind CSS
+
+> **Descripción:** Landing page moderna y responsiva para empresa de logística. Presenta servicios, misión, visión y contacto, con estructura modular y componentes reutilizables.
+
+**Características principales:**
+- Estructura en React con Vite
+- Estilos con Tailwind CSS
+- Componentes reutilizables y diseño responsive
+- Secciones: Hero, Servicios, Misión/Visión, Países, Sobre nosotros, Contacto y Footer
+
+---
+
+### [API Veterinaria - Práctica Backend](https://github.com/Danie0822/veterinaria_api.git)
 **Tecnologías:** Node.js • Express.js • Sequelize • PostgreSQL • Docker • Swagger • JWT
 
 > **Objetivo:** Proyecto de práctica para reforzar conocimientos y aplicar mejores prácticas en el desarrollo de APIs RESTful.
@@ -128,14 +162,13 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 **Características principales:**
 - ✅ Arquitectura limpia y escalable para APIs RESTful
 - ✅ Contenedorización completa con Docker y Docker Compose
-- ✅ ORM avanzado con Sequelize para PostgreSQL
+- ✅ ORM con Sequelize para PostgreSQL
 - ✅ Documentación técnica completa con Swagger
-- ✅ Sistema de autenticación robusto basado en JWT
-- ✅ Mejores prácticas del ecosistema JavaScript
+- ✅ Sistema de autenticación basado en JWT
 
 ---
 
-### ☕ [Práctica Spring Boot - API REST](https://github.com/Danie0822/practica-spring-boot)
+### [Práctica Spring Boot - API REST](https://github.com/Danie0822/practica-spring-boot)
 **Tecnologías:** Spring Boot • Java • JPA • REST API
 
 > **Objetivo:** Repositorio para recordar y practicar conocimientos de Spring Boot. El proyecto implementa una API REST para la gestión de usuarios con operaciones CRUD completas.
@@ -143,13 +176,10 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 **Características principales:**
 - ✅ API REST completa con Spring Boot
 - ✅ Operaciones CRUD para gestión de usuarios
-- ✅ Implementación de mejores prácticas de Spring Framework
-- ✅ Arquitectura limpia y estructurada
-- ✅ Ideal para reforzar conocimientos en el ecosistema Java/Spring
 
 ---
 
-### 🛍️ [EssenZial - E-commerce de Perfumes](https://github.com/Danie0822/EssenZial)
+### [EssenZial - E-commerce de Perfumes](https://github.com/Danie0822/EssenZial)
 **Repositorios:**
 - 🌐 **Web:** [EssenZial - GitHub](https://github.com/Danie0822/EssenZial)
 - 📱 **Mobile:** [React Native App](https://github.com/Danie0822/tienda_react)
@@ -166,25 +196,9 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 - Aplicación móvil multiplataforma
 
 
----
-
-### 🚚 [Landing Page de Empresa de Logística](https://github.com/Danie0822/landing-page)
-**Tecnologías:** React • Vite • Tailwind CSS
-
-> **Descripción:** Landing page moderna y responsiva para empresa de logística. Presenta servicios, misión, visión y contacto, con estructura modular y componentes reutilizables.
-
-**Características principales:**
-- Estructura en React con Vite
-- Estilos con Tailwind CSS
-- Componentes reutilizables y diseño responsive
-- Secciones: Hero, Servicios, Misión/Visión, Países, Sobre nosotros, Contacto y Footer
-
-
----
-
 ## 💼 Experiencia Laboral
 
-### 👨‍💻 Desarrollador de Software
+### Desarrollador de Software
 **Instituto Técnico Ricaldone** | *Noviembre 2024 - Actual*
 
 - **Backend y Frontend Development:** Desarrollo backend con Sequelize y PHP (Laravel) y frontend con Flutter y Vue.
@@ -192,7 +206,7 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 - **Gestión de servidores:** Configuración y administración de servidores como también despliegue de aplicaciones.
 - **Soporte Técnico:** Soporte en gestión de TI, resolución de incidencias en hardware y software.
 
-### 🚀 Desarrollador Full Stack Freelance y Coordinador de Proyecto
+### Desarrollador Full Stack Freelance y Coordinador de Proyecto
 **Proyecto Independiente** | *Mayo 2024 - Diciembre 2024*
 
 - **Rol:** Desarrollador Full Stack y Coordinador de Proyecto.
