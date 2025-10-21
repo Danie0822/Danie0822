@@ -187,15 +187,15 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 ### 👨‍💻 Desarrollador de Software
 **Instituto Técnico Ricaldone** | *Noviembre 2024 - Actual*
 
-- **Backend Development:** Desarrollo backend con Sequelize y PHP (Laravel) y frontend con Flutter y Vue.
+- **Backend y Frontend Development:** Desarrollo backend con Sequelize y PHP (Laravel) y frontend con Flutter y Vue.
 - **Base de Datos:** Gestión y mantenimiento de bases de datos, incluyendo control de registros y administración de usuarios.
+- **Gestión de servidores:** Configuración y administración de servidores como también despliegue de aplicaciones.
 - **Soporte Técnico:** Soporte en gestión de TI, resolución de incidencias en hardware y software.
-- **Administración:** Administración y gestión de credenciales de usuario.
 
 ### 🚀 Desarrollador Full Stack Freelance y Coordinador de Proyecto
 **Proyecto Independiente** | *Mayo 2024 - Diciembre 2024*
 
-- **Liderazgo:** Lideré el desarrollo de un sistema de gestión de inmuebles, estableciendo la arquitectura y lineamientos del proyecto.
+- **Rol:** Desarrollador Full Stack y Coordinador de Proyecto.
 - **Backend:** Desarrollamos el backend con Node.js y Express.
 - **Frontend:** Implementamos el frontend con HTML, CSS, JavaScript (Vanilla) y Bootstrap.
 - **Mobile:** Desarrollamos una aplicación en Flutter como parte del sistema.
@@ -207,23 +207,23 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 
 <ul>
   <li>
-    <strong>Desarrollo Backend:</strong> Creación de APIs RESTful y servicios robustos utilizando diversas tecnologías backend como:
+    <strong>Desarrollo Backend:</strong> Creación de APIs RESTful utilizando diversas tecnologías backend como:
     <ul>
-      <li><strong>Node.js</strong> con <strong>Express.js</strong> para servidores escalables y eficientes.</li>
-      <li><strong>Java</strong> con <strong>Spring Boot</strong> para aplicaciones empresariales y microservicios.</li>
+      <li><strong>Node.js</strong> con <strong>Express.js</strong> con <strong>Sequelize</strong> para bases de datos SQL.</li>
+      <li><strong>Java</strong> con <strong>Spring Boot</strong> con <strong>Hibernate</strong> para bases de datos SQL.</li>
       <li><strong>ASP.NET</strong> y <strong>C#</strong> para soluciones seguras y de alto rendimiento.</li>
-      <li><strong>PHP</strong> para el desarrollo de sistemas web dinámicos y mantenimiento de proyectos existentes.</li>
+      <li><strong>PHP</strong> con <strong>Laravel</strong> para el desarrollo de APIs RESTful.</li>
     </ul>
   </li>
   <li>
     <strong>Desarrollo de Aplicaciones con Flutter:</strong> Creación de aplicaciones móviles multiplataforma con <strong>Flutter</strong>, ofreciendo interfaces nativas, fluidas y optimizadas para Android e iOS.
   </li>
   <li>
-    <strong>Desarrollo Frontend con React:</strong> Diseño y construcción de interfaces de usuario interactivas, modernas y responsivas utilizando <strong>React</strong> y su ecosistema.
+    <strong>Desarrollo Frontend con React:</strong> Diseño y construcción de interfaces de usuario interactivas, modernas y responsivas utilizando <strong>React</strong> y su ecosistema (Vite, Tailwind CSS, Bootstrap).
   </li>
 
   <li>
-    <strong>Desarrollo con React Native y Expo:</strong> Implementación de aplicaciones móviles con <strong>React Native</strong> y <strong>Expo Go</strong>, facilitando pruebas, despliegues y desarrollo ágil.
+    <strong>Desarrollo con React Native y Expo:</strong> Implementación de aplicaciones móviles con <strong>React Native</strong> y <strong>Expo Go</strong>, permitiendo un desarrollo ágil y multiplataforma.
   </li>
   <li>
     <strong>Desarrollo de Aplicaciones de Escritorio:</strong> Creación de aplicaciones con <strong>UWP (Universal Windows Platform)</strong> utilizando <strong>C#</strong> para entornos Windows.
