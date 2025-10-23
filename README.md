@@ -218,45 +218,15 @@ Desarrollador Full Stack | Mayo 2024 – Diciembre 2024
 
 ---
 
-<h2 align="center">Experiencia Técnica</h2>
-<ul>
-  <li>
-    <strong> Desarrollo Backend</strong>
-    <p>Creación de APIs RESTful utilizando tecnologías como:</p>
-    <ul>
-      <li>Node.js con Express para servicios escalables y eficientes.</li>
-      <li>Spring Boot con Java para arquitecturas sólidas orientadas a microservicios.</li>
-      <li>ASP.NET con C# para soluciones robustas y seguras.</li>
-      <li>Laravel con PHP para desarrollo rápido y estructurado de APIs.</li>
-    </ul>
-  </li>
+## 🔹 Experiencia Técnica
 
-  <li>
-    <strong> Aplicaciones Móviles</strong>
-    <ul>
-      <li>Desarrollo de apps multiplataforma con Flutter, con interfaces fluidas para Android e iOS.</li>
-      <li>Implementación de apps con React Native y Expo, priorizando agilidad y experiencia de usuario.</li>
-    </ul>
-  </li>
+- **Desarrollo Backend** — Creación de APIs RESTful utilizando tecnologías como: Node.js + Express; Spring Boot (Java); ASP.NET (C#); Laravel (PHP).
+- **Aplicaciones Móviles** — Desarrollo multiplataforma con Flutter; apps con React Native y Expo.
+- **Frontend con React** — Interfaces modernas y responsivas con React, Vite, Tailwind CSS y Bootstrap.
+- **Aplicaciones de Escritorio** — Desarrollo para Windows con C# y UWP.
+- **Soporte Técnico y Hardware** — Ensamblaje de equipos, instalación de software y mantenimiento de PCs.
 
-  <li>
-    <strong>Frontend con React</strong>
-    <p>Diseño de interfaces modernas y responsivas utilizando React, Vite, Tailwind CSS y Bootstrap.</p>
-  </li>
-  <li>
-    <strong>Aplicaciones de Escritorio</strong>
-    <p>Desarrollo de aplicaciones para Windows con C# y UWP (Universal Windows Platform).</p>
-  </li>
-  <li>
-    <strong>Soporte Técnico y Hardware</strong>
-    <p>Experiencia en ensamblaje de equipos, instalación de software y mantenimiento de PCs. Siempre dispuesto a contribuir en cualquier área tecnológica.</p>
-  </li>
-</ul>
-
-
-<p align="center">
-  Algunos de mis repositorios destacados están pineados
-</p>
+<p align="center">Algunos de mis repositorios destacados están pineados</p>
 
 ---
 
