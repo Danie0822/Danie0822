@@ -203,7 +203,6 @@ Repositorio para reforzar conocimientos en **Spring Boot**. Implementa una API R
 - Implementación de procesos ETL para migración, integración y transformación de datos.
 - Automatización de flujos de trabajo con Python.
 - Configuración de servidores y despliegue de aplicaciones en ambientes de producción (on-premise y AWS EC2).
-- 🔗
 
 ### Desarrollador Full Stack
 **Habit Inmobiliaria (Proyecto Freelance)** | *Mayo 2024 – Diciembre 2024*
