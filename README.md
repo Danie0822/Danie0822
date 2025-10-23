@@ -2,26 +2,16 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Full+Stack;Backend+%26+Mobile+Developer;Node.js+%26+Flutter+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-</div>
 
 ## 💬 Sobre Mí
 
 Soy un **desarrollador apasionado de 20 años** especializado en desarrollo backend y aplicaciones móviles. Mi stack principal incluye **Node.js** y **Flutter**, con experiencia en diversas tecnologías modernas. Cuando no estoy programando, me gusta mantenerme activo practicando **fútbol** y entrenando en el **gimnasio**.
 
 ### 🔧 Stack Tecnológico
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
 
 ---
 
@@ -29,25 +19,12 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 
 ### Certificados
 <details>
-<summary><strong>Entrenamiento de Bases de Datos Microsoft SQL Server</strong> - Udemy</summary>
-<br>
-<img src="https://github.com/Danie0822/Danie0822/raw/main/Certificados/Certificado%20de%20sql%20server.jpg" alt="Certificado SQL Server" width="500">
-</details>
-
-<details>
 <summary><strong>Diseño Web Adaptable</strong> - freeCodeCamp</summary>
 <br>
 <img src="https://github.com/Danie0822/Danie0822/raw/main/Certificados/Certificado%20de%20dise%C3%B1o%20web.jpg" alt="Certificado Diseño Web" width="500">
-</details>
-
-<details>
-<summary><strong>Flutter: Tu Guía Completa para iOS y Android</strong> - Udemy</summary>
-<br>
 <img src="https://github.com/Danie0822/Danie0822/raw/main/Certificados/Certificado%20de%20flutter.jpg" alt="Certificado Flutter" width="500">
-</details>
 
 <details>
-<summary><strong>English for IT 2</strong> - Certificación</summary>
 <br>
 📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/EnglishforIT2Update20250928-31-x6iorw.pdf" target="_blank">Ver Certificado PDF</a>
 </details>
@@ -216,35 +193,64 @@ Repositorio para reforzar conocimientos en **Spring Boot**. Implementa una API R
 - **Mobile:** Desarrollamos una aplicación en Flutter como parte del sistema.
 - **Deployment:** Realicé el despliegue del proyecto.
 
+## 💼 Experiencia Laboral
+
+### Desarrollador Full Stack
+**Instituto Técnico Ricaldone** | *Noviembre 2024 – Actual*
+
+- Desarrollo backend con Javascript (Node.js, Express.js) y PHP (Laravel); frontend en Flutter y Vue.js.
+- Diseño, gestión y mantenimiento de bases de datos (MySQL, PostgreSQL, SQL Server).
+- Implementación de procesos ETL para migración, integración y transformación de datos.
+- Automatización de flujos de trabajo con Python.
+- Configuración de servidores y despliegue de aplicaciones en ambientes de producción (on-premise y AWS EC2).
+- 🔗
+
+### Desarrollador Full Stack
+**Habit Inmobiliaria (Proyecto Freelance)** | *Mayo 2024 – Diciembre 2024*
+
+- Desarrollo backend con Node.js y Express; frontend con HTML, CSS y Bootstrap.
+- Creación de una aplicación móvil en Flutter.
+- Responsable del despliegue completo del sistema.
+- Gestión del proyecto y coordinación de un equipo de 5 integrantes.
+- 🔗
+
 ---
 
 <h2 align="center">🛠️ Experiencia Técnica</h2>
 
 <ul>
   <li>
-    <strong>Desarrollo Backend:</strong> Creación de APIs RESTful utilizando diversas tecnologías backend como:
+    <strong>🔹 Desarrollo Backend</strong>
+    <br>
+    Creación de APIs RESTful utilizando tecnologías como:
     <ul>
-      <li><strong>Node.js</strong> con <strong>Express.js</strong> con <strong>Sequelize</strong> para bases de datos SQL.</li>
-      <li><strong>Java</strong> con <strong>Spring Boot</strong> con <strong>Hibernate</strong> para bases de datos SQL.</li>
-      <li><strong>ASP.NET</strong> y <strong>C#</strong> para soluciones seguras y de alto rendimiento.</li>
-      <li><strong>PHP</strong> con <strong>Laravel</strong> para el desarrollo de APIs RESTful.</li>
+      <li>Node.js con Express para servicios escalables y eficientes.</li>
+      <li>Spring Boot con Java para arquitecturas sólidas orientadas a microservicios.</li>
+      <li>ASP.NET con C# para soluciones robustas y seguras.</li>
+      <li>Laravel con PHP para desarrollo rápido y estructurado de APIs.</li>
     </ul>
   </li>
   <li>
-    <strong>Desarrollo de Aplicaciones con Flutter:</strong> Creación de aplicaciones móviles multiplataforma con <strong>Flutter</strong>, ofreciendo interfaces nativas, fluidas y optimizadas para Android e iOS.
+    <strong>🔹 Aplicaciones Móviles</strong>
+    <ul>
+      <li>Desarrollo de apps multiplataforma con Flutter, con interfaces fluidas para Android e iOS.</li>
+      <li>Implementación de apps con React Native y Expo, priorizando agilidad y experiencia de usuario.</li>
+    </ul>
   </li>
   <li>
-    <strong>Desarrollo Frontend con React:</strong> Diseño y construcción de interfaces de usuario interactivas, modernas y responsivas utilizando <strong>React</strong> y su ecosistema (Vite, Tailwind CSS, Bootstrap).
-  </li>
-
-  <li>
-    <strong>Desarrollo con React Native y Expo:</strong> Implementación de aplicaciones móviles con <strong>React Native</strong> y <strong>Expo Go</strong>, permitiendo un desarrollo ágil y multiplataforma.
+    <strong>🔹 Frontend con React</strong>
+    <br>
+    Diseño de interfaces modernas y responsivas utilizando React, Vite, Tailwind CSS y Bootstrap.
   </li>
   <li>
-    <strong>Desarrollo de Aplicaciones de Escritorio:</strong> Creación de aplicaciones con <strong>UWP (Universal Windows Platform)</strong> utilizando <strong>C#</strong> para entornos Windows.
+    <strong>🔹 Aplicaciones de Escritorio</strong>
+    <br>
+    Desarrollo de aplicaciones para Windows con C# y UWP (Universal Windows Platform).
   </li>
   <li>
-    <strong>Conocimientos en Hardware y Mantenimiento:</strong> Ensamblaje, instalación de software, mantenimiento preventivo y correctivo de equipos de escritorio. Aunque mi verdadera pasión es la programación, siempre estoy dispuesto a aprender y aportar en cualquier área tecnológica.
+    <strong>🔹 Soporte Técnico y Hardware</strong>
+    <br>
+    Experiencia en ensamblaje de equipos, instalación de software y mantenimiento de PCs. Siempre dispuesto a contribuir en cualquier área tecnológica.
   </li>
 </ul>
 
