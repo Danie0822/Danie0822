@@ -220,13 +220,11 @@ Desarrollador Full Stack | Mayo 2024 – Diciembre 2024
 
 ## 🔹 Experiencia Técnica
 
-- **Desarrollo Backend** — Creación de APIs RESTful utilizando tecnologías como: Node.js + Express; Spring Boot (Java); ASP.NET (C#); Laravel (PHP).
-- **Aplicaciones Móviles** — Desarrollo multiplataforma con Flutter; apps con React Native y Expo.
-- **Frontend con React** — Interfaces modernas y responsivas con React, Vite, Tailwind CSS y Bootstrap.
-- **Aplicaciones de Escritorio** — Desarrollo para Windows con C# y UWP.
-- **Soporte Técnico y Hardware** — Ensamblaje de equipos, instalación de software y mantenimiento de PCs.
-
-<p align="center">Algunos de mis repositorios destacados están pineados</p>
+- **Desarrollo Backend** Creación de APIs RESTful utilizando tecnologías como: Node.js + Express; Spring Boot (Java); ASP.NET (C#); Laravel (PHP).
+- **Aplicaciones Móviles** Desarrollo multiplataforma con Flutter; apps con React Native y Expo.
+- **Frontend con React** Interfaces modernas y responsivas con React, Vite, Tailwind CSS y Bootstrap.
+- **Aplicaciones de Escritorio** Desarrollo para Windows con C# y UWP.
+- **Soporte Técnico y Hardware** Ensamblaje de equipos, instalación de software y mantenimiento de PCs.
 
 ---
 
