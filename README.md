@@ -197,11 +197,10 @@ Repositorio para reforzar conocimientos en **Spring Boot**. Implementa una API R
 
 ---
 
-## 💼 Experiencia Laboral
+## Experiencia Laboral
 
-### Noviembre 2024 – Actual
 **Instituto Técnico Ricaldone**  
-Desarrollador Full Stack
+Desarrollador Full Stack | Noviembre 2024 – Actual
 
 - Desarrollo backend con Javascript (Node.js, Express.js) y PHP (Laravel); frontend en Flutter y Vue.js.
 - Diseño, gestión y mantenimiento de bases de datos (MySQL, PostgreSQL, SQL Server).
@@ -209,9 +208,8 @@ Desarrollador Full Stack
 - Automatización de flujos de trabajo con Python.
 - Configuración de servidores y despliegue de aplicaciones en ambientes de producción (on-premise y AWS EC2).
 
-### Mayo 2024 – Diciembre 2024
 **Habit Inmobiliaria (Proyecto Freelance)**  
-Desarrollador Full Stack
+Desarrollador Full Stack | Mayo 2024 – Diciembre 2024
 
 - Desarrollo backend con Node.js y Express; frontend con HTML, CSS y Bootstrap.
 - Creación de una aplicación móvil en Flutter.
@@ -220,8 +218,7 @@ Desarrollador Full Stack
 
 ---
 
-<h2 align="center">� Experiencia Técnica</h2>
-
+<h2 align="center">Experiencia Técnica</h2>
 <ul>
   <li>
     <strong> Desarrollo Backend</strong>
@@ -246,12 +243,10 @@ Desarrollador Full Stack
     <strong>Frontend con React</strong>
     <p>Diseño de interfaces modernas y responsivas utilizando React, Vite, Tailwind CSS y Bootstrap.</p>
   </li>
-
   <li>
     <strong>Aplicaciones de Escritorio</strong>
     <p>Desarrollo de aplicaciones para Windows con C# y UWP (Universal Windows Platform).</p>
   </li>
-
   <li>
     <strong>Soporte Técnico y Hardware</strong>
     <p>Experiencia en ensamblaje de equipos, instalación de software y mantenimiento de PCs. Siempre dispuesto a contribuir en cualquier área tecnológica.</p>
