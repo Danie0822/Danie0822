@@ -199,52 +199,62 @@ Repositorio para reforzar conocimientos en **Spring Boot**. Implementa una API R
 
 ## 💼 Experiencia Laboral
 
-### Desarrollador de Software
-**Instituto Técnico Ricaldone** | *Noviembre 2024 - Actual*
+### Noviembre 2024 – Actual
+**Instituto Técnico Ricaldone**  
+Desarrollador Full Stack
 
-- **Backend y Frontend Development:** Desarrollo backend con Sequelize y PHP (Laravel) y frontend con Flutter y Vue.
-- **Base de Datos:** Gestión y mantenimiento de bases de datos, incluyendo control de registros y administración de usuarios.
-- **Gestión de servidores:** Configuración y administración de servidores como también despliegue de aplicaciones.
-- **Soporte Técnico:** Soporte en gestión de TI, resolución de incidencias en hardware y software.
+- Desarrollo backend con Javascript (Node.js, Express.js) y PHP (Laravel); frontend en Flutter y Vue.js.
+- Diseño, gestión y mantenimiento de bases de datos (MySQL, PostgreSQL, SQL Server).
+- Implementación de procesos ETL para migración, integración y transformación de datos.
+- Automatización de flujos de trabajo con Python.
+- Configuración de servidores y despliegue de aplicaciones en ambientes de producción (on-premise y AWS EC2).
 
-### Desarrollador Full Stack Freelance y Coordinador de Proyecto
-**Proyecto Independiente** | *Mayo 2024 - Diciembre 2024*
+### Mayo 2024 – Diciembre 2024
+**Habit Inmobiliaria (Proyecto Freelance)**  
+Desarrollador Full Stack
 
-- **Rol:** Desarrollador Full Stack y Coordinador de Proyecto.
-- **Backend:** Desarrollamos el backend con Node.js y Express.
-- **Frontend:** Implementamos el frontend con HTML, CSS, JavaScript (Vanilla) y Bootstrap.
-- **Mobile:** Desarrollamos una aplicación en Flutter como parte del sistema.
-- **Deployment:** Realicé el despliegue del proyecto.
+- Desarrollo backend con Node.js y Express; frontend con HTML, CSS y Bootstrap.
+- Creación de una aplicación móvil en Flutter.
+- Responsable del despliegue completo del sistema.
+- Gestión del proyecto y coordinación de un equipo de 5 integrantes.
 
 ---
 
-<h2 align="center">🛠️ Experiencia Técnica</h2>
+<h2 align="center">� Experiencia Técnica</h2>
 
 <ul>
   <li>
-    <strong>Desarrollo Backend:</strong> Creación de APIs RESTful utilizando diversas tecnologías backend como:
+    <strong> Desarrollo Backend</strong>
+    <p>Creación de APIs RESTful utilizando tecnologías como:</p>
     <ul>
-      <li><strong>Node.js</strong> con <strong>Express.js</strong> con <strong>Sequelize</strong> para bases de datos SQL.</li>
-      <li><strong>Java</strong> con <strong>Spring Boot</strong> con <strong>Hibernate</strong> para bases de datos SQL.</li>
-      <li><strong>ASP.NET</strong> y <strong>C#</strong> para soluciones seguras y de alto rendimiento.</li>
-      <li><strong>PHP</strong> con <strong>Laravel</strong> para el desarrollo de APIs RESTful.</li>
+      <li>Node.js con Express para servicios escalables y eficientes.</li>
+      <li>Spring Boot con Java para arquitecturas sólidas orientadas a microservicios.</li>
+      <li>ASP.NET con C# para soluciones robustas y seguras.</li>
+      <li>Laravel con PHP para desarrollo rápido y estructurado de APIs.</li>
     </ul>
-  </li>
-  <li>
-    <strong>Desarrollo de Aplicaciones con Flutter:</strong> Creación de aplicaciones móviles multiplataforma con <strong>Flutter</strong>, ofreciendo interfaces nativas, fluidas y optimizadas para Android e iOS.
-  </li>
-  <li>
-    <strong>Desarrollo Frontend con React:</strong> Diseño y construcción de interfaces de usuario interactivas, modernas y responsivas utilizando <strong>React</strong> y su ecosistema (Vite, Tailwind CSS, Bootstrap).
   </li>
 
   <li>
-    <strong>Desarrollo con React Native y Expo:</strong> Implementación de aplicaciones móviles con <strong>React Native</strong> y <strong>Expo Go</strong>, permitiendo un desarrollo ágil y multiplataforma.
+    <strong> Aplicaciones Móviles</strong>
+    <ul>
+      <li>Desarrollo de apps multiplataforma con Flutter, con interfaces fluidas para Android e iOS.</li>
+      <li>Implementación de apps con React Native y Expo, priorizando agilidad y experiencia de usuario.</li>
+    </ul>
   </li>
+
   <li>
-    <strong>Desarrollo de Aplicaciones de Escritorio:</strong> Creación de aplicaciones con <strong>UWP (Universal Windows Platform)</strong> utilizando <strong>C#</strong> para entornos Windows.
+    <strong>Frontend con React</strong>
+    <p>Diseño de interfaces modernas y responsivas utilizando React, Vite, Tailwind CSS y Bootstrap.</p>
   </li>
+
   <li>
-    <strong>Conocimientos en Hardware y Mantenimiento:</strong> Ensamblaje, instalación de software, mantenimiento preventivo y correctivo de equipos de escritorio. Aunque mi verdadera pasión es la programación, siempre estoy dispuesto a aprender y aportar en cualquier área tecnológica.
+    <strong>Aplicaciones de Escritorio</strong>
+    <p>Desarrollo de aplicaciones para Windows con C# y UWP (Universal Windows Platform).</p>
+  </li>
+
+  <li>
+    <strong>Soporte Técnico y Hardware</strong>
+    <p>Experiencia en ensamblaje de equipos, instalación de software y mantenimiento de PCs. Siempre dispuesto a contribuir en cualquier área tecnológica.</p>
   </li>
 </ul>
 
