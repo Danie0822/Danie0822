@@ -114,7 +114,7 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 
 ## 📌 Proyectos Destacados
 
-### [Sistema de Cotizaciones Logísticas](Sistema-de-Cotizaciones-Logisticas/)
+### [Sistema de Cotizaciones Logísticas](https://github.com/Danie0822/Sistema-de-Cotizaciones-Logisticas)
 **Práctica:** Repositorio para reforzar conocimientos en **React (frontend)** y **Sequelize/Node (backend)**.
 
 Monorepo que contiene una API backend y una aplicación frontend para gestionar cotizaciones de servicios logísticos.
