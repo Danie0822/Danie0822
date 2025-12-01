@@ -52,6 +52,12 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/CyberThreatManagementUpdate20250928-29-lzfys2.pdf" target="_blank">Ver Certificado PDF</a>
 </details>
 
+<details>
+<summary><strong>Scrum Profesional</strong> - Certificación</summary>
+<br>
+📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/certificado-scrum-profesional.pdf" target="_blank">Ver Certificado PDF</a>
+</details>
+
 ###  Diplomas DevOps y Arquitectura
 <details>
 <summary><strong>Arquitectura de Alta Concurrencia</strong> - Platzi</summary>
