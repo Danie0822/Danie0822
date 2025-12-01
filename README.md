@@ -55,7 +55,7 @@ Soy un **desarrollador apasionado de 20 años** especializado en desarrollo back
 <details>
 <summary><strong>Scrum Profesional</strong> - Certificación</summary>
 <br>
-📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/certificado-scrum-profesional.pdf" target="_blank">Ver Certificado PDF</a>
+📄 <a href="https://github.com/Danie0822/Danie0822/raw/main/Certificados/diploma-scrum-profesional.pdf" target="_blank">Ver Certificado PDF</a>
 </details>
 
 ###  Diplomas DevOps y Arquitectura
